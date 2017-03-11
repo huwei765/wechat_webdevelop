@@ -8,6 +8,4 @@
 - 检查Access_Token有效性
 并且将返回Object供您使用。
 
-[![Jietu20170311-193945e130f.md.png](https://image.hongkong.skroot.cc/images/2017/03/11/Jietu20170311-193945e130f.md.png)](https://www.skroot.cc/image/Rq20)
-
 >使用时请配置`config.php`中的`APPID`和`SECRET`值（在微信公众号后台得到）
